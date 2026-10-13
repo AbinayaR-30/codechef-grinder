@@ -1,5 +1,5 @@
 {
-  "total_solved": 459,
+  "total_solved": 464,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -459,7 +459,12 @@
     "PSEUDOSORT",
     "BUSROW",
     "BOTTOM",
-    "MAXADJSUM"
+    "MAXADJSUM",
+    "MAYOR_PARTY",
+    "REACHWT",
+    "CHEAPFUEL",
+    "DICENUM",
+    "CARSELL"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -682,7 +687,8 @@
     "BADMINTON",
     "CHEFZOT",
     "SBTG",
-    "ATTENDU"
+    "ATTENDU",
+    "LARGODDSTRIN"
   ],
   "history": [
     {
@@ -3894,6 +3900,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-13 11:55:02"
+    },
+    {
+      "code": "MAYOR_PARTY",
+      "name": "Peaceful Party",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 15:53:12"
+    },
+    {
+      "code": "REACHWT",
+      "name": "Reach Weight",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-13 15:55:26"
+    },
+    {
+      "code": "CHEAPFUEL",
+      "name": "Which Fuel is Cheaper",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 15:56:57"
+    },
+    {
+      "code": "DICENUM",
+      "name": "Dice Number",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 15:58:27"
+    },
+    {
+      "code": "CARSELL",
+      "name": "Sell All the Cars",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 16:01:09"
     }
   ]
 }
