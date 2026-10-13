@@ -1,5 +1,5 @@
 {
-  "total_solved": 464,
+  "total_solved": 467,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -464,7 +464,10 @@
     "REACHWT",
     "CHEAPFUEL",
     "DICENUM",
-    "CARSELL"
+    "CARSELL",
+    "CHEFCONTEST",
+    "P2BAR",
+    "STRONGTABLE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3935,6 +3938,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-13 16:01:09"
+    },
+    {
+      "code": "CHEFCONTEST",
+      "name": "Chef and Contest",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 19:58:14"
+    },
+    {
+      "code": "P2BAR",
+      "name": "Signal",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 20:00:07"
+    },
+    {
+      "code": "STRONGTABLE",
+      "name": "Table Strength",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 20:02:00"
     }
   ]
 }
