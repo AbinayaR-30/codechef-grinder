@@ -15,10 +15,10 @@ class BotConfig(BaseModel):
 
     # Human-Like Randomization & Pacing
     randomize_batch: bool = Field(default_factory=lambda: os.getenv("RANDOMIZE_BATCH", "true").lower() in ("true", "1", "yes"))
-    min_problems_per_run: int = Field(default_factory=lambda: int(os.getenv("MIN_PROBLEMS_PER_RUN", "4")))
-    max_problems_per_run: int = Field(default_factory=lambda: int(os.getenv("MAX_PROBLEMS_PER_RUN", "6")))
+    min_problems_per_run: int = Field(default_factory=lambda: int(os.getenv("MIN_PROBLEMS_PER_RUN", "5")))
+    max_problems_per_run: int = Field(default_factory=lambda: int(os.getenv("MAX_PROBLEMS_PER_RUN", "10")))
     daily_target_min: int = Field(default_factory=lambda: int(os.getenv("DAILY_TARGET_MIN", "8")))
-    daily_target_max: int = Field(default_factory=lambda: int(os.getenv("DAILY_TARGET_MAX", "20")))
+    daily_target_max: int = Field(default_factory=lambda: int(os.getenv("DAILY_TARGET_MAX", "50")))
 
     # Random Pacing Delay between Submissions (in seconds, e.g. 40s to 120s)
     min_delay_seconds: int = Field(default_factory=lambda: int(os.getenv("MIN_DELAY_SECONDS", "40")))
