@@ -1,5 +1,5 @@
 {
-  "total_solved": 467,
+  "total_solved": 469,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -467,7 +467,9 @@
     "CARSELL",
     "CHEFCONTEST",
     "P2BAR",
-    "STRONGTABLE"
+    "STRONGTABLE",
+    "AABBCCDD",
+    "ODDSEVENS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3959,6 +3961,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-13 20:02:00"
+    },
+    {
+      "code": "AABBCCDD",
+      "name": "AabBcCDd",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 21:59:28"
+    },
+    {
+      "code": "ODDSEVENS",
+      "name": "Odds and Evens",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 22:00:54"
     }
   ]
 }
