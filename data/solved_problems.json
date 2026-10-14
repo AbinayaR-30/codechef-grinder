@@ -1,5 +1,5 @@
 {
-  "total_solved": 479,
+  "total_solved": 483,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -479,7 +479,11 @@
     "BLUEBLACK",
     "THREEFR",
     "TEKKEN",
-    "STKSTR"
+    "STKSTR",
+    "P2169",
+    "MAKENZERO",
+    "EOEO",
+    "LARGESTK343"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4056,6 +4060,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-14 18:18:19"
+    },
+    {
+      "code": "P2169",
+      "name": "Opposite Attract",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:00:06"
+    },
+    {
+      "code": "MAKENZERO",
+      "name": "Make N Zero",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:01:27"
+    },
+    {
+      "code": "EOEO",
+      "name": "The Tom and Jerry Game!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:03:29"
+    },
+    {
+      "code": "LARGESTK343",
+      "name": "Largest K",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:05:11"
     }
   ]
 }
