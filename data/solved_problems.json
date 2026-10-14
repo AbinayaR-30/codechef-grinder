@@ -1,5 +1,5 @@
 {
-  "total_solved": 469,
+  "total_solved": 475,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -469,7 +469,13 @@
     "P2BAR",
     "STRONGTABLE",
     "AABBCCDD",
-    "ODDSEVENS"
+    "ODDSEVENS",
+    "COVIDLQ",
+    "DIGSMPAR",
+    "SHARING",
+    "CNTODDEVEN",
+    "THREEBOX",
+    "BOP3"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3975,6 +3981,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-13 22:00:54"
+    },
+    {
+      "code": "COVIDLQ",
+      "name": "COVID Pandemic and Long Queue",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 09:46:40"
+    },
+    {
+      "code": "DIGSMPAR",
+      "name": "Digit Sum Parities",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 09:47:43"
+    },
+    {
+      "code": "SHARING",
+      "name": "Sharing Cookies",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 09:49:28"
+    },
+    {
+      "code": "CNTODDEVEN",
+      "name": "Count Odd Even Divisors",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 09:50:58"
+    },
+    {
+      "code": "THREEBOX",
+      "name": "Three Boxes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 09:52:42"
+    },
+    {
+      "code": "BOP3",
+      "name": "Min And Operations",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 09:54:09"
     }
   ]
 }
