@@ -1,5 +1,5 @@
 {
-  "total_solved": 493,
+  "total_solved": 497,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -493,7 +493,11 @@
     "CODETOWN",
     "SUNNYDAY",
     "TENPACKETS",
-    "MAXSLAM"
+    "MAXSLAM",
+    "LKDNGOLF",
+    "BUSSEAT",
+    "UNQSHF",
+    "SPC2025"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4168,6 +4172,34 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-15 09:33:37"
+    },
+    {
+      "code": "LKDNGOLF",
+      "name": "Golf",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 14:07:15"
+    },
+    {
+      "code": "BUSSEAT",
+      "name": "Bus Seating",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 14:09:15"
+    },
+    {
+      "code": "UNQSHF",
+      "name": "Unequal Shuffle",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 14:10:37"
+    },
+    {
+      "code": "SPC2025",
+      "name": "New-Pro Coder",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-15 14:13:04"
     }
   ]
 }
