@@ -1,5 +1,5 @@
 {
-  "total_solved": 497,
+  "total_solved": 503,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -497,7 +497,13 @@
     "LKDNGOLF",
     "BUSSEAT",
     "UNQSHF",
-    "SPC2025"
+    "SPC2025",
+    "ADASCOOL",
+    "AMMEAT",
+    "MRSWAP",
+    "DBDISC",
+    "EID",
+    "HCAGMAM1"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4200,6 +4206,48 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-15 14:13:04"
+    },
+    {
+      "code": "ADASCOOL",
+      "name": "Ada School",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 17:54:11"
+    },
+    {
+      "code": "AMMEAT",
+      "name": "Andrew and the Meatballs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 17:55:42"
+    },
+    {
+      "code": "MRSWAP",
+      "name": "Mirror Swap",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 17:57:34"
+    },
+    {
+      "code": "DBDISC",
+      "name": "Double Discount",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 17:58:55"
+    },
+    {
+      "code": "EID",
+      "name": "Chef and Eid",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 18:00:36"
+    },
+    {
+      "code": "HCAGMAM1",
+      "name": "Chef And Salary Pay",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 18:02:15"
     }
   ]
 }
