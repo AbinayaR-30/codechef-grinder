@@ -1,5 +1,5 @@
 {
-  "total_solved": 489,
+  "total_solved": 493,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -489,7 +489,11 @@
     "CHEFSUM",
     "FAIRELCT",
     "SALARY",
-    "WHICHDIV"
+    "WHICHDIV",
+    "CODETOWN",
+    "SUNNYDAY",
+    "TENPACKETS",
+    "MAXSLAM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4136,6 +4140,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-15 01:16:34"
+    },
+    {
+      "code": "CODETOWN",
+      "name": "Reach Codetown",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:28:11"
+    },
+    {
+      "code": "SUNNYDAY",
+      "name": "Sunny Day",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:30:13"
+    },
+    {
+      "code": "TENPACKETS",
+      "name": "Buy Ten Packets",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-15 09:31:42"
+    },
+    {
+      "code": "MAXSLAM",
+      "name": "Maximum Slams",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-15 09:33:37"
     }
   ]
 }
