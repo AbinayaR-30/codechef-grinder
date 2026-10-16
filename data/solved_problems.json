@@ -1,5 +1,5 @@
 {
-  "total_solved": 507,
+  "total_solved": 512,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -507,7 +507,12 @@
     "HATTRICK",
     "MXON",
     "GOODSUB7",
-    "SEATING7"
+    "SEATING7",
+    "ANUUND",
+    "ARYAGRID",
+    "FLOWERBUY",
+    "CHOCOCHEF",
+    "CHOCEAT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4288,6 +4293,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-16 09:23:39"
+    },
+    {
+      "code": "ANUUND",
+      "name": "Ups and Downs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 20:08:31"
+    },
+    {
+      "code": "ARYAGRID",
+      "name": "Arya In Grid",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-16 20:11:10"
+    },
+    {
+      "code": "FLOWERBUY",
+      "name": "Buying Flowers",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-16 20:13:02"
+    },
+    {
+      "code": "CHOCOCHEF",
+      "name": "Chocolate Distribution",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-16 20:16:51"
+    },
+    {
+      "code": "CHOCEAT",
+      "name": "Chocolate Eating",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 20:17:44"
     }
   ]
 }
