@@ -736,7 +736,11 @@
     "EQSUM",
     "BRLADDER",
     "DRAWCH",
-    "CHANGEONE7"
+    "CHANGEONE7",
+    "BLNDOR",
+    "GROUPASSGN",
+    "TYPWRL",
+    "SAMESAME"
   ],
   "history": [
     {
