@@ -1,5 +1,5 @@
 {
-  "total_solved": 503,
+  "total_solved": 507,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -503,7 +503,11 @@
     "MRSWAP",
     "DBDISC",
     "EID",
-    "HCAGMAM1"
+    "HCAGMAM1",
+    "HATTRICK",
+    "MXON",
+    "GOODSUB7",
+    "SEATING7"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4248,6 +4252,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-15 18:02:15"
+    },
+    {
+      "code": "HATTRICK",
+      "name": "Hattrick",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 09:20:07"
+    },
+    {
+      "code": "MXON",
+      "name": "Maximum Ones",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 09:21:31"
+    },
+    {
+      "code": "GOODSUB7",
+      "name": "Good Subsequence",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 09:22:42"
+    },
+    {
+      "code": "SEATING7",
+      "name": "Seating",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-16 09:23:39"
     }
   ]
 }
