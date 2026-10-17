@@ -1,5 +1,5 @@
 {
-  "total_solved": 516,
+  "total_solved": 521,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -516,7 +516,12 @@
     "WRAPGIFTS",
     "SNAPE",
     "ADDPOS",
-    "MERRYXMAS"
+    "MERRYXMAS",
+    "CCHEAVEN",
+    "DONUTSELL",
+    "GEMBUND",
+    "FARFROMO",
+    "SMARTER"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -749,7 +754,8 @@
     "BLNDOR",
     "GROUPASSGN",
     "TYPWRL",
-    "SAMESAME"
+    "SAMESAME",
+    "EXPSTP"
   ],
   "history": [
     {
@@ -4360,6 +4366,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-17 08:57:26"
+    },
+    {
+      "code": "CCHEAVEN",
+      "name": "Chef in Heaven ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 12:55:10"
+    },
+    {
+      "code": "DONUTSELL",
+      "name": "Selling Donuts",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 12:56:37"
+    },
+    {
+      "code": "GEMBUND",
+      "name": "Gem Bundles",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 12:59:35"
+    },
+    {
+      "code": "FARFROMO",
+      "name": "Far from origin",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 13:01:16"
+    },
+    {
+      "code": "SMARTER",
+      "name": "Work Smarter, Not Harder",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 13:03:15"
     }
   ]
 }
