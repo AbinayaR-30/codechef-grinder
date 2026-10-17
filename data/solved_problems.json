@@ -1,5 +1,5 @@
 {
-  "total_solved": 521,
+  "total_solved": 527,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -521,7 +521,13 @@
     "DONUTSELL",
     "GEMBUND",
     "FARFROMO",
-    "SMARTER"
+    "SMARTER",
+    "PERMUTATION",
+    "TRUTHLIE",
+    "VOTERS",
+    "MAXTRI",
+    "CHESSWIN",
+    "FIZZBUZZ23_2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4401,6 +4407,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-17 13:03:15"
+    },
+    {
+      "code": "PERMUTATION",
+      "name": "Convert to permutation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 16:40:10"
+    },
+    {
+      "code": "TRUTHLIE",
+      "name": "Truth Teller And Liars 101",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 16:41:38"
+    },
+    {
+      "code": "VOTERS",
+      "name": "Discrepancies in the Voters List",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 16:43:33"
+    },
+    {
+      "code": "MAXTRI",
+      "name": "Max Triangle",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 16:44:57"
+    },
+    {
+      "code": "CHESSWIN",
+      "name": "Chess Win",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 16:46:44"
+    },
+    {
+      "code": "FIZZBUZZ23_2",
+      "name": "Survival Time",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 16:48:00"
     }
   ]
 }
