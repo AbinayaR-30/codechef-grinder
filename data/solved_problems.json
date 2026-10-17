@@ -1,5 +1,5 @@
 {
-  "total_solved": 512,
+  "total_solved": 516,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -512,7 +512,11 @@
     "ARYAGRID",
     "FLOWERBUY",
     "CHOCOCHEF",
-    "CHOCEAT"
+    "CHOCEAT",
+    "WRAPGIFTS",
+    "SNAPE",
+    "ADDPOS",
+    "MERRYXMAS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4328,6 +4332,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-16 20:17:44"
+    },
+    {
+      "code": "WRAPGIFTS",
+      "name": "Christmas Gifts",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 08:51:48"
+    },
+    {
+      "code": "SNAPE",
+      "name": "Snape and Ladder",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 08:53:51"
+    },
+    {
+      "code": "ADDPOS",
+      "name": "Add to make Positive",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 08:55:29"
+    },
+    {
+      "code": "MERRYXMAS",
+      "name": "Merry Christmas!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-17 08:57:26"
     }
   ]
 }
