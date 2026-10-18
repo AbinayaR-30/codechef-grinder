@@ -1,5 +1,5 @@
 {
-  "total_solved": 538,
+  "total_solved": 543,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -538,7 +538,12 @@
     "CHANGE_PLZ",
     "BALREV",
     "ELEVSTRS",
-    "COUPON2"
+    "COUPON2",
+    "FOOTBALLTIES",
+    "ANADSW",
+    "GYMDAY",
+    "MAXCAP",
+    "MAXSCORE7"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4537,6 +4542,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-18 05:47:07"
+    },
+    {
+      "code": "FOOTBALLTIES",
+      "name": "Football Ties",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 05:49:30"
+    },
+    {
+      "code": "ANADSW",
+      "name": "Anti Adjacent Swaps",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 05:50:59"
+    },
+    {
+      "code": "GYMDAY",
+      "name": "International Gym Day",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 05:53:12"
+    },
+    {
+      "code": "MAXCAP",
+      "name": "Maximum Capacity",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 05:55:15"
+    },
+    {
+      "code": "MAXSCORE7",
+      "name": "Maximum Score ",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-18 05:56:42"
     }
   ]
 }
