@@ -1,5 +1,5 @@
 {
-  "total_solved": 547,
+  "total_solved": 551,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -547,7 +547,11 @@
     "EASYPERM",
     "VALIDMIN",
     "AVGOF3",
-    "BISHOPMV"
+    "BISHOPMV",
+    "REPEAT",
+    "EQCARDGAME",
+    "YOGACLASS",
+    "CVDRUN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4610,6 +4614,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-18 06:02:28"
+    },
+    {
+      "code": "REPEAT",
+      "name": "Odd Repeat",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 06:56:18"
+    },
+    {
+      "code": "EQCARDGAME",
+      "name": "Equal Card Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 06:57:19"
+    },
+    {
+      "code": "YOGACLASS",
+      "name": "Yoga Class",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 06:58:50"
+    },
+    {
+      "code": "CVDRUN",
+      "name": "Covid Run",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 07:00:41"
     }
   ]
 }
