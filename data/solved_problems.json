@@ -1,5 +1,5 @@
 {
-  "total_solved": 543,
+  "total_solved": 547,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -543,7 +543,11 @@
     "ANADSW",
     "GYMDAY",
     "MAXCAP",
-    "MAXSCORE7"
+    "MAXSCORE7",
+    "EASYPERM",
+    "VALIDMIN",
+    "AVGOF3",
+    "BISHOPMV"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -777,7 +781,8 @@
     "GROUPASSGN",
     "TYPWRL",
     "SAMESAME",
-    "EXPSTP"
+    "EXPSTP",
+    "EVENHATE"
   ],
   "history": [
     {
@@ -4577,6 +4582,34 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-18 05:56:42"
+    },
+    {
+      "code": "EASYPERM",
+      "name": "Easy Permutation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 05:57:45"
+    },
+    {
+      "code": "VALIDMIN",
+      "name": "Valid Minimum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 05:59:39"
+    },
+    {
+      "code": "AVGOF3",
+      "name": "Average of Three",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 06:00:50"
+    },
+    {
+      "code": "BISHOPMV",
+      "name": "Bishop Moves",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 06:02:28"
     }
   ]
 }
