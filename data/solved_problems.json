@@ -1,5 +1,5 @@
 {
-  "total_solved": 532,
+  "total_solved": 538,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -532,7 +532,13 @@
     "SC31",
     "CHESS_PAIR",
     "TWODIFFPALIN",
-    "PIZZAPARTY"
+    "PIZZAPARTY",
+    "GCEA",
+    "MAKESUB",
+    "CHANGE_PLZ",
+    "BALREV",
+    "ELEVSTRS",
+    "COUPON2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4489,6 +4495,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-17 19:51:20"
+    },
+    {
+      "code": "GCEA",
+      "name": "Gotta Catch Em All",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 05:40:51"
+    },
+    {
+      "code": "MAKESUB",
+      "name": "Make Subarray",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 05:42:06"
+    },
+    {
+      "code": "CHANGE_PLZ",
+      "name": "Change Please",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 05:43:01"
+    },
+    {
+      "code": "BALREV",
+      "name": "Balanced Reversals",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 05:44:19"
+    },
+    {
+      "code": "ELEVSTRS",
+      "name": "From heaven to earth",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 05:45:16"
+    },
+    {
+      "code": "COUPON2",
+      "name": "Chef and Coupon",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 05:47:07"
     }
   ]
 }
