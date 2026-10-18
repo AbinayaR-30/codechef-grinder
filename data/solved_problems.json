@@ -1,5 +1,5 @@
 {
-  "total_solved": 551,
+  "total_solved": 552,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -551,7 +551,8 @@
     "REPEAT",
     "EQCARDGAME",
     "YOGACLASS",
-    "CVDRUN"
+    "CVDRUN",
+    "ORDDIST"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4642,6 +4643,13 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-18 07:00:41"
+    },
+    {
+      "code": "ORDDIST",
+      "name": "Ordered Distances",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-18 07:01:41"
     }
   ]
 }
