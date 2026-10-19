@@ -1,5 +1,5 @@
 {
-  "total_solved": 562,
+  "total_solved": 566,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -562,7 +562,11 @@
     "RESELL",
     "COOLSUB",
     "MUL123",
-    "PLACE0110"
+    "PLACE0110",
+    "PERMOR",
+    "COMM3",
+    "EVENM",
+    "COOLER7"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4734,6 +4738,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-19 19:37:07"
+    },
+    {
+      "code": "PERMOR",
+      "name": "OR Permutation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 21:46:05"
+    },
+    {
+      "code": "COMM3",
+      "name": "Three Way Communications",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 21:47:14"
+    },
+    {
+      "code": "EVENM",
+      "name": "Even Matrix",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 21:48:13"
+    },
+    {
+      "code": "COOLER7",
+      "name": "Cooler",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 21:49:46"
     }
   ]
 }
