@@ -1,5 +1,5 @@
 {
-  "total_solved": 552,
+  "total_solved": 557,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -552,7 +552,12 @@
     "EQCARDGAME",
     "YOGACLASS",
     "CVDRUN",
-    "ORDDIST"
+    "ORDDIST",
+    "DECODEIT",
+    "CHEFSLP",
+    "NONADJFLIP",
+    "SWMA",
+    "MAKEPERM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4650,6 +4655,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-18 07:01:41"
+    },
+    {
+      "code": "DECODEIT",
+      "name": "Encoded String",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 10:20:47"
+    },
+    {
+      "code": "CHEFSLP",
+      "name": "Chef and Pairing Slippers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 10:22:16"
+    },
+    {
+      "code": "NONADJFLIP",
+      "name": "Non Adjacent Flips",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 10:23:28"
+    },
+    {
+      "code": "SWMA",
+      "name": "Swapping Marks Digits",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 10:24:27"
+    },
+    {
+      "code": "MAKEPERM",
+      "name": "Make Permutation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-19 10:25:43"
     }
   ]
 }
