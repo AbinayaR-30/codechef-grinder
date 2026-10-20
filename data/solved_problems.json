@@ -1,5 +1,5 @@
 {
-  "total_solved": 582,
+  "total_solved": 586,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -582,7 +582,11 @@
     "MAX_BIN",
     "MULT3",
     "INTMTCH",
-    "CLIPLX"
+    "CLIPLX",
+    "P2_175",
+    "LONGDRIVE",
+    "LOSTWKND",
+    "MOVHYPE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4894,6 +4898,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-20 18:21:03"
+    },
+    {
+      "code": "P2_175",
+      "name": "Technex Tickets",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 20:55:15"
+    },
+    {
+      "code": "LONGDRIVE",
+      "name": "Long Drive",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 20:57:47"
+    },
+    {
+      "code": "LOSTWKND",
+      "name": "Lost Weekends",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 20:58:52"
+    },
+    {
+      "code": "MOVHYPE",
+      "name": "Movie Hype",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-20 21:01:23"
     }
   ]
 }
