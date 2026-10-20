@@ -1,5 +1,5 @@
 {
-  "total_solved": 576,
+  "total_solved": 582,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -576,7 +576,13 @@
     "BIT2A",
     "LADDU",
     "BUYING7",
-    "ODDEVEN7"
+    "ODDEVEN7",
+    "VACCINE1",
+    "FARMLEGS",
+    "MAX_BIN",
+    "MULT3",
+    "INTMTCH",
+    "CLIPLX"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4846,6 +4852,48 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-20 14:29:40"
+    },
+    {
+      "code": "VACCINE1",
+      "name": "Vaccine Production",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 18:07:33"
+    },
+    {
+      "code": "FARMLEGS",
+      "name": "Legs on a Farm",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-20 18:10:56"
+    },
+    {
+      "code": "MAX_BIN",
+      "name": "Max Binary",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-20 18:16:04"
+    },
+    {
+      "code": "MULT3",
+      "name": "Multiple of 3",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 18:17:13"
+    },
+    {
+      "code": "INTMTCH",
+      "name": "Interesting Match",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-20 18:19:10"
+    },
+    {
+      "code": "CLIPLX",
+      "name": "IPL and RCB",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 18:21:03"
     }
   ]
 }
