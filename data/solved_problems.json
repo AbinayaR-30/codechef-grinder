@@ -1,5 +1,5 @@
 {
-  "total_solved": 566,
+  "total_solved": 570,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -566,7 +566,11 @@
     "PERMOR",
     "COMM3",
     "EVENM",
-    "COOLER7"
+    "COOLER7",
+    "BIGARRAY",
+    "JOINSTATE",
+    "FAIL",
+    "SCORING"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4766,6 +4770,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-19 21:49:46"
+    },
+    {
+      "code": "BIGARRAY",
+      "name": "Obtain the Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 09:40:44"
+    },
+    {
+      "code": "JOINSTATE",
+      "name": "Join States",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 09:42:02"
+    },
+    {
+      "code": "FAIL",
+      "name": "Failing Grades",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 09:43:04"
+    },
+    {
+      "code": "SCORING",
+      "name": "Scoring",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 09:44:30"
     }
   ]
 }
