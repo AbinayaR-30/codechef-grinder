@@ -1,5 +1,5 @@
 {
-  "total_solved": 570,
+  "total_solved": 576,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -570,7 +570,13 @@
     "BIGARRAY",
     "JOINSTATE",
     "FAIL",
-    "SCORING"
+    "SCORING",
+    "XMASTREE",
+    "WATERMOVE2",
+    "BIT2A",
+    "LADDU",
+    "BUYING7",
+    "ODDEVEN7"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4798,6 +4804,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-20 09:44:30"
+    },
+    {
+      "code": "XMASTREE",
+      "name": "Christmas Trees",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-20 14:16:27"
+    },
+    {
+      "code": "WATERMOVE2",
+      "name": "Water Moving (Max)",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 14:19:36"
+    },
+    {
+      "code": "BIT2A",
+      "name": "A - Books",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 14:22:08"
+    },
+    {
+      "code": "LADDU",
+      "name": "Laddu",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-20 14:26:14"
+    },
+    {
+      "code": "BUYING7",
+      "name": "Expensive Buying",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-20 14:27:37"
+    },
+    {
+      "code": "ODDEVEN7",
+      "name": "Odd Even",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-20 14:29:40"
     }
   ]
 }
