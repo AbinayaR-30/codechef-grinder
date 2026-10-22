@@ -1,5 +1,5 @@
 {
-  "total_solved": 600,
+  "total_solved": 603,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -600,7 +600,10 @@
     "BALLOONS",
     "ALTARR",
     "WOLFDOWN",
-    "CHPINTU"
+    "CHPINTU",
+    "CAN_REACH",
+    "MODEFREQ",
+    "RATIO2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -841,7 +844,10 @@
     "DSTAPLS",
     "STFOOD",
     "BAKERY7",
-    "MINMXOR"
+    "MINMXOR",
+    "NEARSQ",
+    "ALEXNUMB",
+    "RNGEODD"
   ],
   "history": [
     {
@@ -5040,6 +5046,27 @@
       "status": "Accepted",
       "attempts": 3,
       "time": "2026-10-22 09:50:56"
+    },
+    {
+      "code": "CAN_REACH",
+      "name": "Can_Reach",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-22 14:31:23"
+    },
+    {
+      "code": "MODEFREQ",
+      "name": "Mode of Frequencies",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-22 14:33:04"
+    },
+    {
+      "code": "RATIO2",
+      "name": "Ratio By 2",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-22 14:35:22"
     }
   ]
 }
