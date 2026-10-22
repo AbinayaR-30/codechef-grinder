@@ -847,7 +847,11 @@
     "MINMXOR",
     "NEARSQ",
     "ALEXNUMB",
-    "RNGEODD"
+    "RNGEODD",
+    "OG",
+    "CMIX",
+    "SECLAR",
+    "IPCCERT"
   ],
   "history": [
     {
