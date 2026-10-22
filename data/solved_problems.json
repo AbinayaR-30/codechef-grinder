@@ -1,5 +1,5 @@
 {
-  "total_solved": 596,
+  "total_solved": 598,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -596,7 +596,9 @@
     "DOUBLE",
     "AVDSQUARPLZ",
     "FIXEDPTS",
-    "MONEYDOUBLE"
+    "MONEYDOUBLE",
+    "BALLOONS",
+    "ALTARR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -835,7 +837,9 @@
     "ADAKING",
     "FRGAME",
     "DSTAPLS",
-    "STFOOD"
+    "STFOOD",
+    "BAKERY7",
+    "MINMXOR"
   ],
   "history": [
     {
@@ -5006,6 +5010,20 @@
       "status": "Accepted",
       "attempts": 3,
       "time": "2026-10-21 14:38:16"
+    },
+    {
+      "code": "BALLOONS",
+      "name": "Coloured Balloons",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-22 04:14:26"
+    },
+    {
+      "code": "ALTARR",
+      "name": "Alternating Array",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-22 04:16:32"
     }
   ]
 }
