@@ -1,5 +1,5 @@
 {
-  "total_solved": 598,
+  "total_solved": 600,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -598,7 +598,9 @@
     "FIXEDPTS",
     "MONEYDOUBLE",
     "BALLOONS",
-    "ALTARR"
+    "ALTARR",
+    "WOLFDOWN",
+    "CHPINTU"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5024,6 +5026,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-22 04:16:32"
+    },
+    {
+      "code": "WOLFDOWN",
+      "name": "Wolf Down",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-22 09:48:01"
+    },
+    {
+      "code": "CHPINTU",
+      "name": "Pintu and Fruits",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-22 09:50:56"
     }
   ]
 }
