@@ -1,5 +1,5 @@
 {
-  "total_solved": 603,
+  "total_solved": 606,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -603,7 +603,10 @@
     "CHPINTU",
     "CAN_REACH",
     "MODEFREQ",
-    "RATIO2"
+    "RATIO2",
+    "MINDAYSRET",
+    "SAVWATER",
+    "DIVIDEMAKEEQ"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -851,7 +854,9 @@
     "OG",
     "CMIX",
     "SECLAR",
-    "IPCCERT"
+    "IPCCERT",
+    "RATING",
+    "PATHPAR"
   ],
   "history": [
     {
@@ -5071,6 +5076,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-22 14:35:22"
+    },
+    {
+      "code": "MINDAYSRET",
+      "name": "Back to Campus",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-22 20:54:40"
+    },
+    {
+      "code": "SAVWATER",
+      "name": "A - Save Water Save Life",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-22 20:57:33"
+    },
+    {
+      "code": "DIVIDEMAKEEQ",
+      "name": "Luigi and Uniformity",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-22 21:05:13"
     }
   ]
 }
