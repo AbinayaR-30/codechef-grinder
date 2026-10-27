@@ -1,5 +1,5 @@
 {
-  "total_solved": 606,
+  "total_solved": 610,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -606,7 +606,11 @@
     "RATIO2",
     "MINDAYSRET",
     "SAVWATER",
-    "DIVIDEMAKEEQ"
+    "DIVIDEMAKEEQ",
+    "CHEFGRD",
+    "MNMX",
+    "DANCEMOVES",
+    "MAKEMULTIPLE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5097,6 +5101,34 @@
       "status": "Accepted",
       "attempts": 3,
       "time": "2026-10-22 21:05:13"
+    },
+    {
+      "code": "CHEFGRD",
+      "name": "Akash and Grid",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-27 13:42:41"
+    },
+    {
+      "code": "MNMX",
+      "name": "Minimum Maximum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-27 13:43:52"
+    },
+    {
+      "code": "DANCEMOVES",
+      "name": "Dance Moves",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-27 13:45:12"
+    },
+    {
+      "code": "MAKEMULTIPLE",
+      "name": "Make Multiple",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-27 13:48:54"
     }
   ]
 }
